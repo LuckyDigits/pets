@@ -10,4 +10,3 @@
 * numpy
 * matplotlib
 * seaborn
-
