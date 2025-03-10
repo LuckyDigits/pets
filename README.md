@@ -5,4 +5,3 @@
 |:----------:|:----------:|:----------:|:----------:|:----------:|
 | 1 | [Анализ доноров благотворительного фонда](https://github.com/LuckyDigits/pets/tree/main/charity_fund_analysis)  | Анализ доноров благотворительного фонда: сегментация доноров, анализ поведения и ключевых характеристик сегментов, определение наиболее важных из них. Анализ проведенных фондом акций, каналов привлечения пользователей.  |  pandas, yadisk, ydata_profiling, datetime, numpy, matplotlib, seaborn  |  Завершен   |
 | 2 | [Дашборд для Английский от Яндекс.Практикум](https://github.com/LuckyDigits/pets/tree/main/ed_tech_dashbord)    | Перенос текущей системы ежемесячной отчетности Английский от Практикум из Google Таблиц в DataLens.  | DataLens  |  Завершен   |
-| 3 | [Дашборд для DonorSearch](https://github.com/LuckyDigits/pets/tree/main/donor_search_dashbord)    | Анализ пожертвований и финансовая аналитика для НКО DonorSearch.  | DataLens  |  Завершен   |
